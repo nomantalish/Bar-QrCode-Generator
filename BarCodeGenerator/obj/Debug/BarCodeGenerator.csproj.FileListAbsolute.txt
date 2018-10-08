@@ -1,0 +1,12 @@
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\bin\Debug\BarCodeGenerator.exe.config
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\bin\Debug\BarCodeGenerator.exe
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\bin\Debug\BarCodeGenerator.pdb
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\obj\Debug\BarCodeGenerator.csprojAssemblyReference.cache
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\obj\Debug\BarCodeGenerator.Form1.resources
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\obj\Debug\BarCodeGenerator.Properties.Resources.resources
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\obj\Debug\BarCodeGenerator.csproj.GenerateResource.cache
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\obj\Debug\BarCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\obj\Debug\BarCodeGenerator.exe
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\obj\Debug\BarCodeGenerator.pdb
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\obj\Debug\BarCodeGenerator.csproj.CopyComplete
+C:\Users\Noman Talish\source\repos\BarCodeGenerator\BarCodeGenerator\bin\Debug\Zen.Barcode.Core.dll
